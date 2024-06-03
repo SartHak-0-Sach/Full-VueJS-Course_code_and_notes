@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=FXpIoQ_rT_c == vue.js freecodecamp course
+https://vueschool.io/lessons/getting-started-with-vuejs == VueJS fundamentals course
+https://www.udemy.com/course/vue-2-crash-course/learn/lecture/9374922#overview == VueJS crash course
